@@ -1,0 +1,21 @@
+{
+  "course": "ECE141B",
+  "term"  : "SP19",
+  "total_hours" : 10,
+  "assignment"  : 1,
+  "due_date"    : "Monday April 8, 11:15p",
+  "students": [
+    {
+      "name " : "Tara Shamblin",
+      "pid"   : "A12672191",
+      "email" : "tshambli@ucsd.edu",
+      "os"    : "windows",
+    },
+    {
+      "name"  : "Arda C. Bati",
+      "pid"   : "A53284500",
+      "email" : "abati@ucsd.edu",
+      "os"    : "windows",
+    }
+  ]
+}
